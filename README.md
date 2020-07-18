@@ -8,12 +8,12 @@
 ├── build					# 构建相关
 ├── mock					# 项目mock 模拟数据
 ├── public					# 静态资源
-│	├── index.html			# html模板
-│	└── favicon.ico			# favicon图标
+│	├── index.html			        # html模板
+│	└── favicon.ico			        # favicon图标
 ├── src						# 源代码
 │	├── api					# 所有请求
 │	├── assets				# 主题 字体等静态资源
-│	├── components			# 全局公用组件
+│	├── components			        # 全局公用组件
 │	├── icons				# 项目所有svg icons
 │	├── layout				# 全局layout布局
 │	├── router				# 路由
@@ -23,21 +23,21 @@
 │	├── views				# views所有页面
 │	├── App.vue				# 入口页面
 │	├── main.js				# 入口文件
-│	├── permission.js		# 权限管理
-│	└── setting.js			# 网站配置信息文件
+│	├── permission.js		        # 权限管理
+│	└── setting.js			        # 网站配置信息文件
 ├── tests					# 测试
-├── .editorconfig			# editor配置文件
-├── .env.xxx				# 环境变量配置
-├── .eslintignore			# eslint忽略配置项
-├── .eslintrc.js			# eslint配置项
-├── .travis.yml				# 自动化CI配置
-├── babel.config.js			# babel配置文件
-├── jest.config.js			# jest配置文件
-├── jsconfig.json			# js配置文件
-├── postcss.config.js		# postcss配置
-├── vue.config.js			# vue-cli相关配置文件
-├── package.json			# package.json
-└── package-lock.js			# package-lock.json
+├── .editorconfig			        # editor配置文件
+├── .env.xxx				        # 环境变量配置
+├── .eslintignore			        # eslint忽略配置项
+├── .eslintrc.js			        # eslint配置项
+├── .travis.yml				        # 自动化CI配置
+├── babel.config.js			        # babel配置文件
+├── jest.config.js			        # jest配置文件
+├── jsconfig.json			        # js配置文件
+├── postcss.config.js		                # postcss配置
+├── vue.config.js			        # vue-cli相关配置文件
+├── package.json			        # package.json
+└── package-lock.js			        # package-lock.json
 ```
 
 ## 安装
